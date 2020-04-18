@@ -5,6 +5,7 @@ App({
     },
     onHide() {
     },
+
     onError(error) {
     },
     globalData:{
